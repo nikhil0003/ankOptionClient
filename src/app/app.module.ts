@@ -8,7 +8,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {MatButtonModule} from '@angular/material/button';
 import {MatTableModule} from '@angular/material/table';
 import { HttpClientModule} from "@angular/common/http";
-import { OptionViewComponent } from './option-view/option-view.component';
+import { OptionViewComponent } from './components/option-view/option-view.component';
 
 @NgModule({
   declarations: [

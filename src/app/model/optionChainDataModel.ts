@@ -1,28 +1,27 @@
 import {DataSource} from '@angular/cdk/collections';
 export class OptionChainDataModel {
 
-  public  C_Chart: string ;
-	public C_Open_Interest:  string ;
-	public  C_Change_in_Open_Interest: string ;
-	public  C_Traded_Volume :string ;
-	public C_Implied_Volatility : string ;
-	public  C_LTP :string ;
-	public  C_Net_Chng :string ;
-	public  C_Bid_Quantity: string ;
-	public  C_BidPrice :string ;
-	public  C_AskPrice :string ;
-	public C_AskQty : string ;
-	public  Strike_Price : string ;
+  public  c_Chart: string ;
+	public c_Open_Interest:  string ;
+	public  c_Traded_Volume :string ;
+	public c_Implied_Volatility : string ;
+	public  c_LTP :string ;
+	public  c_Net_Chng :string ;
+	public  c_Bid_Quantity: string ;
+	public  c_BidPrice :string ;
+	public  c_AskPrice :string ;
+	public c_AskQty : string ;
+	public  strike_Price : string ;
 	public  P_BidQty :string ;
 	public   P_BidPrice :string ;
 	public  P_AskPrice :string ;
 	public  P_AskQty :string ;
-	public P_Net_Chng : string ;
-	public  P_LTP :string ;
-	public  P_IV :string ;
-	public P_Volume : string ;
-	public  P_Chng_in_OI :string ;
-	public  P_OI :string ;
-	public  P_Chart :string ;
+	public p_Net_Chng : string ;
+	public  p_LTP :string ;
+	public  p_IV :string ;
+	public p_Volume : string ;
+	public  p_Chng_in_OI :string ;
+	public  p_OI :string ;
+	public  p_Chart :string ;
 
 }
