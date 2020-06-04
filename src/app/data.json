@@ -1,0 +1,27 @@
+[
+  {
+      "p_LTP": "LTP",
+      "p_IV": "test",
+      "p_Volume": "test",
+      "p_Chng_in_OI": "test",
+      "p_OI": "test",
+      "p_Chart": "rest",
+      "c_LTP": null,
+      "c_Chart": "rest",
+      "c_Net_Chng": "test",
+      "c_AskPrice": "test",
+      "c_AskQty": "test",
+      "strike_Price": "strick",
+      "p_BidQty": "test",
+      "p_BidPrice": "test",
+      "p_AskPrice": "test",
+      "p_AskQty": "test",
+      "p_Net_Chng": "test",
+      "c_BidPrice": "test",
+      "c_Traded_Volume": "test",
+      "c_Change_in_Open_Interest": "test",
+      "c_Implied_Volatility": "test",
+      "c_Open_Interest": "test",
+      "c_Bid_Quantity": "test"
+  }
+]
